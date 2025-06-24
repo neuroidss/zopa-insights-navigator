@@ -1,0 +1,8 @@
+{
+  "name": "Copy of ZOPA Insights Navigator",
+  "description": "An application to explore the Zone of Possible Agreement (ZOPA) using AI-powered insights from the Gemini API, including information on BATNA, WATNA, and related negotiation concepts, with sourced information from Google Search. Now with voice input capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
