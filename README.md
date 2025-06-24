@@ -1,5 +1,7 @@
 # Run and deploy your AI Studio app
 
+![game, offer $50, accept $50](https://github.com/neuroidss/zopa-insights-navigator/blob/main/Screenshot%20from%202025-06-24%2020-27-46.png?raw=true)
+
 This contains everything you need to run your app locally.
 
 ## Run Locally
